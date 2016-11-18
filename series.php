@@ -1,5 +1,7 @@
 <?php include('header.php');?>
 <?php include('menu.php');?>
+<!-- Поменять -->
+
 <div class="wraping">
 	<div class="descriping">
 		<div class="descriping-title">Описание аниме</div>
